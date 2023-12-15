@@ -1,2 +1,5 @@
 print('Hello World')
-print('My Name Is Mr. Chayut Songserm ')
+print('My Name Is Mr Chayut Songserm')
+print('Nickname: Donut')
+print('Graduated from Mathayom 6 Nakhon Phanom Witthayakhom School')
+print('Nakhon Phanom Province')
