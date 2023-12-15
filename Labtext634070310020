@@ -1,0 +1,5 @@
+print('Hello World')
+print('My Name Is Mr paramat bumrakorn')
+print('Nickname: mat')
+print('Graduated from Nakhon Phanom Technical College')
+print('Nakhon Phanom Province')
